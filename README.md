@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="img\avatar.jpg" width="120" style="border-radius: 50%; animation: pulse 2s infinite;" alt="Michael Danial Avatar"/>
+  <img src="img\avatar.jpg" width="120" style=" border-radius: 50%; animation: pulse 2s infinite;" alt="Michael Danial Avatar"/>
 </p>
 
 <p align="center">
@@ -88,10 +88,4 @@ const michael = {
 
 </center>
 
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
+
