@@ -115,7 +115,7 @@ const michael = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=FC466B&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀;Eng: Michael Danial"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=FC466B&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀"/>
 
 </p>
 
