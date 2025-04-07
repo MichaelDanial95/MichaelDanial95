@@ -16,8 +16,8 @@
   <a href="https://wa.me/201095161434" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/MichaelDanial95"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.facebook.com/Mikha.Daniel1995" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-<center>
+
+
 ---
 
 ### 🚀 About Me
@@ -87,6 +87,6 @@ const michael = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=FC466B&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀" />
 </p>
 
-</center>
+</p>
 
 
