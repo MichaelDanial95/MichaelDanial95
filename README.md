@@ -24,6 +24,7 @@
 <p align="center">
 I’m a passionate Egyptian developer who loves building web applications, designing user-friendly interfaces, and developing immersive game environments. I work with multiple technologies and love learning and improving every day.
 
+</p>
 
 ```js
 const michael = {
@@ -34,7 +35,7 @@ const michael = {
   passion: ["UI/UX", "Creative Coding", "Gaming", "Learning", "Problem Solving"]
 };
 
-</p>
+
 ```
 
 ---
