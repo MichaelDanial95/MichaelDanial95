@@ -78,6 +78,7 @@ const michael = {
 <p align="center">
 
 ![Michael's GitHub Contribution Graph](https://ghchart.rshah.org/FC466B/MichaelDanial95)
+
 </p>
 
 
@@ -86,6 +87,7 @@ const michael = {
 <p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MichaelDanial95&theme=radical)](https://git.io/streak-stats)
+
 </p>
 
 ### GitHub Activity Graph 
@@ -93,6 +95,7 @@ const michael = {
 <p align="center">
 
 [![Michael's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelDanial95&bg_color=0d1117&color=fc466b&line=3f5efb&point=f97316&area=true&hide_border=true)](https://github.com/MichaelDanial95)
+
 </p>
 
 
@@ -113,6 +116,7 @@ const michael = {
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=FC466B&size=24&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀" />
+  
 </p>
 
 
