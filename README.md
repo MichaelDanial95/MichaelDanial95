@@ -46,14 +46,17 @@ const michael = {
 ---
 
 
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDanial95&layout=compact&theme=tokyonight" width="340"/>
 
+
+
+
+### 📊 GitHub Contribution Stats
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=MichaelDanial95&show_icons=true&theme=tokyonight" width="450"/>
  
-### 📊 GitHub Contribution Stats
-
-
 ###  Activity Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDanial95&theme=tokyonight" />
 
@@ -69,8 +72,6 @@ const michael = {
 
 
 
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDanial95&layout=compact&theme=tokyonight" width="340"/>
 
 
 ---
