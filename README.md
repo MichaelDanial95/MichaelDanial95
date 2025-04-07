@@ -23,7 +23,7 @@
 ### 🚀 About Me
 <p align="center">
 I’m a passionate Egyptian developer who loves building web applications, designing user-friendly interfaces, and developing immersive game environments. I work with multiple technologies and love learning and improving every day.
-</p>
+
 
 ```js
 const michael = {
@@ -33,16 +33,22 @@ const michael = {
   tools: ["VS Code", "Photoshop", "Filmora", "SQL Server", "SQLite", "GitHub"],
   passion: ["UI/UX", "Creative Coding", "Gaming", "Learning", "Problem Solving"]
 };
+
+</p>
 ```
 
 ---
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+
 | Frontend        | Backend        | Mobile         | Database       | Tools & Other       |
 |----------------|----------------|----------------|----------------|---------------------|
 | HTML, CSS, JS  | PHP, Laravel   | Flutter        | SQL Server     | Git, GitHub         |
 | Vue.js, Tailwind | Livewire      |                | SQLite         | Photoshop, Filmora  |
+
+></p>
 
 ---
 
